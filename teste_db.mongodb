@@ -1,0 +1,6 @@
+use("teste")
+
+
+db.tenta1.insert({_id:1,"nome":"Ricardo","idade":"24"})
+
+db.tenta1.find()
