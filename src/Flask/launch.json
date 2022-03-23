@@ -1,0 +1,32 @@
+
+[{
+    "nome":"caroline",
+    "idade":21,
+    "endereço":{
+        "rua":"aleixo de oliveira",
+        "numero":22,
+        "cep": 123
+    },
+    "telefone":{
+        "celular":123456,
+        "fixo":3456
+    }
+},
+{
+ "nome":"luiz",
+ "idade":23,
+ "endereço":{
+    "rua":"rua da patria",
+        "numero":22,
+        "cep":234
+    },
+    "telefone":{
+        "celular":4325,
+        "fixo":5555
+    }
+}
+]
+   
+         
+        
+     

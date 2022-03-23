@@ -1,0 +1,6 @@
+DEBUG:root:Ola, Estamos no arquivo
+INFO:root:Ola, Estamos no arquivo
+WARNING:root:Ola, Estamos no arquivo
+CRITICAL:root:Ola, Estamos no arquivo
+ERROR:root:Ola, Estamos no arquivo
+CRITICAL:root:Estamos on 

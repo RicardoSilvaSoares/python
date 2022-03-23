@@ -1,0 +1,2 @@
+2022-03-22 22:11:26,884: INFO :  exercicio_3_logging.py : Linha de chamada do log: 20 : x: 7 - y: 7
+2022-03-22 22:11:26,884: WARNING :  exercicio_3_logging.py : Linha de chamada do log: 23 : x: 5.6 type : <class 'float'> - y: 9 type : <class 'int'>
