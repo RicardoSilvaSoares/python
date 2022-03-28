@@ -20,7 +20,7 @@ with open ("launch.json", 'r' ) as arquivo:
     arquivo.close()
 @app.route('/') #decorator "@" atribui uma nova função para a função seguinte
 def raiz():
-    return 'Bem vindo adicione clienta na url para obter a lista de clientes'
+    return 'Bem vindo adicione /clientes na url para obter a lista de clientes'
     
 @app.route('/clientes')
 def get_clientes():
